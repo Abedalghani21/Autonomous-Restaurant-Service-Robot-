@@ -36,12 +36,6 @@ ROS 2 Humble • Nav2 • Gazebo 11 • RViz2 • Python 3 • Tkinter • Vosk 
 
 ---
 
-## 📩 Contact & Collaboration
-Developed by Abedalghani — *Robotics & Intelligent Systems Engineer*.  
-Available for custom ROS 2 simulations, autonomous navigation projects, and robotics consulting.
-
----
-
 ---
 
 ### 📩 Contact for Projects & Inquiries
