@@ -6,15 +6,18 @@ An end-to-end autonomous waiter robot simulation designed for restaurant service
 
 ## 📸 System Preview & Simulation
 
-### 1. Gazebo Simulation & Control Panel
+### 1. Custom Waiter Robot Model & Restaurant Environment (Gazebo)
+![Custom Waiter Robot](photo_2026-11-20_02-28-51.jpg)
+
+### 2. Full Simulation & Control Panel Overview
 ![Gazebo and GUI](Screenshot%20from%202026-11-19%2019-11-39.png)
 
-### 2. Autonomous Navigation & LiDAR Mapping (RViz2 & Nav2)
+### 3. Autonomous Navigation & LiDAR Mapping (RViz2 & Nav2)
 ![RViz2 and GUI](Screenshot%20from%202026-11-19%2019-12-10.png)
 ![RViz2 Navigation](Screenshot%20from%202026-11-19%2019-21-39.png)
 ![RViz2 LiDAR Scan](Screenshot%20from%202026-11-19%2019-25-31.png)
 
-### 3. Smart AI Control Panel (GUI & Offline Voice Recognition)
+### 4. Smart AI Control Panel (GUI & Offline Voice Recognition)
 ![Control Panel](Screenshot%20from%202026-11-19%2019-33-28.png)
 
 ---
