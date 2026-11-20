@@ -35,6 +35,7 @@ An end-to-end autonomous waiter robot simulation designed for restaurant service
 ROS 2 Humble • Nav2 • Gazebo 11 • RViz2 • Python 3 • Tkinter • Vosk ASR • URDF • Ubuntu 22.04
 
 ---
+![Uploading image.png…]()
 
 ---
 
