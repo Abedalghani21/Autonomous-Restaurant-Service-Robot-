@@ -35,7 +35,9 @@ An end-to-end autonomous waiter robot simulation designed for restaurant service
 ROS 2 Humble • Nav2 • Gazebo 11 • RViz2 • Python 3 • Tkinter • Vosk ASR • URDF • Ubuntu 22.04
 
 ---
-![Uploading image.png…]()
+
+### 5. Mechanical 3D CAD Design (SolidWorks)
+![SolidWorks 3D Design](Screenshot%202026-11-20%20131614.png)
 
 ---
 
